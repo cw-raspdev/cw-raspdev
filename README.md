@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cw-raspdev (Chilsea Wang)
 - 👀 I’m interested in public health and the LGBTQ+ community
 - 🌱 I’m currently expanding on my Matlab and Python skills
-- 💞️ I’m looking to collaborate on an awesome project :)
+- 💞️ I’m looking to collaborate on data related to patient care and quality of life :)
 - 📫 How to reach me: chilsea_wang@brown.edu
 
 <!---
